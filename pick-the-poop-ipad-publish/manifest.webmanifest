@@ -1,0 +1,23 @@
+{
+  "name": "Pick the Poop!",
+  "short_name": "Pick the Poop",
+  "description": "A ridiculously silly family-made poop-catching game.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#292c39",
+  "theme_color": "#292c39",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
